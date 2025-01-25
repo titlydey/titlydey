@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Titly Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Development </h3>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
